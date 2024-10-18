@@ -1,0 +1,13 @@
+openpyxl
+xlsxwriter
+streamlit
+pandas
+numpy
+wordcloud
+matplotlib
+gensim
+spacy
+fuzzywuzzy
+pyLDAvis
+nltk
+scipy
